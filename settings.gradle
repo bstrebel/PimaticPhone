@@ -1,0 +1,1 @@
+include ':app', ':pimatic-api', ':pimatic-utils'
